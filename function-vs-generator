@@ -1,0 +1,6 @@
+Function:No controll over specific thing with in Function
+        Why function ?
+        * code reuse
+Generator:similar to functions but with (*) before function name
+        Why Generator?
+        * Controll over the specific things with in the method with YEILD Keyword
